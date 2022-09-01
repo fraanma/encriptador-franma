@@ -1,0 +1,181 @@
+body{
+    background: #F3F5FC; 
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    background: #D8DFE8;
+
+}
+
+.logo{
+    width: 100%;
+    float: left;
+    border-radius: 24px;
+    background: #D8DFE8;
+
+}
+.logoimg{
+    margin-top: 1%;
+    float: inherit;
+    margin-left: 5%;
+}
+
+.title{
+    float: inherit;
+    margin-left: 20%;    
+}
+
+
+
+.izq{
+    float: left;
+    width: 70%;
+    height: 65%;
+    border-radius: 24px;
+    background: #D8DFE8;
+}
+
+#text-input{
+    text-align:center;
+    float: left;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 80%;
+    height: 80%;
+    color: #0A3871;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    background: #F3F5FC;
+    box-sizing: border-box;
+    border-color: #0f0f0f;
+    border-width: 2px; 
+    border-style: solid;
+    border-top-width: 10px;
+    border-radius: 24px;
+    
+}
+
+.der{
+    float: right;
+    border-radius: 24px;
+    height: auto;
+    width: 30%;
+    background:#D8DFE8;
+    box-sizing: border-box;
+    border-color: #0f0f0f;
+    border-width: 2px; 
+    border-style: solid;
+    border-top-width: 10px;
+    border-radius: 24px;
+    
+}
+
+#imgder{
+    margin-left: 2%;
+    margin-top: 5%;
+    width: 90%;
+    height: auto;
+    
+
+}
+
+#texto{
+    margin-left: 7%;
+    margin-right: 5%;
+    font-style: normal;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+#texto2{
+    float: left;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    color: #0A3871;
+    width: 80%;
+    height: 60%;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    font-style: normal;
+    text-align: center;
+
+}   
+
+#copiar{
+    margin-left: 33%;
+    margin-top: 90%;
+    padding: 24px;
+    width: 40%;
+    height: 10%;
+    background: #D8DFE8;
+    border-radius: 24px;
+    display: none;
+
+}
+
+#botones{
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background:#D8DFE8 ;
+    text-align: justify;
+    font-size: 20px;
+    
+}
+
+
+#indicaciones{
+    text-align: center;
+}
+
+#boton_encriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 15%;
+    background: #0A3871;
+    color: #D8DFE8;
+}
+
+#botones #boton_encriptar:hover{
+    border-color: #b49920;
+}
+#botones #boton_encriptar:active{
+    border-color: #e7150e;
+}
+
+#boton_desencriptar{
+    padding: 24px;
+    width: 30%;
+    height: 60%;
+    border-radius: 24px;
+    margin-left: 10%;
+    background: #D8DFE8;
+    
+}
+
+#botones #boton_desencriptar:hover{
+    border-color: #b49920;
+}
+#botones #boton_desencriptar:active{
+    border-color: #e7150e;
+}
+
+.der #copiar:hover{
+    border-color: #b49920;
+}
+.der #copiar:active{
+    border-color: #e7150e;
+}

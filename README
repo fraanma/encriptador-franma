@@ -1,0 +1,13 @@
+Hola, en este proyecto muestro el encriptador realizado en base a lo aprendido en el curso ONE utilizando CSS, JavaScript y html.
+
+Lo buscado es que las vocales sean transformadas en "otra palabra", es decir:
+
+a = "ai"
+e = "enter"
+i = "imes"
+o = "ober"
+u = "ufat"
+
+Un ejemplo de esto seria, si quiero encriptar la frase "hola, como estan?", la misma se transformaria en "hoberlai, cobermober enterstain?"
+
+https://www.linkedin.com/in/francisco-marelli/
