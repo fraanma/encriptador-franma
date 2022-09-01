@@ -1,2 +1,0 @@
-# encriptador-franma
-Encriptador ONE
